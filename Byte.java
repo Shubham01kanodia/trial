@@ -4,5 +4,6 @@ class By
 	{
 		By b=new By();
 		System.out.println(b);
+		/*hiiii*/
 	}
 }
